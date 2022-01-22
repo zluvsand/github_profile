@@ -1,24 +1,26 @@
 # 💼 Sample code snippets for GitHub profile README.md 
+To customise your GitHub Profile, include your favourite code snippets in `README.md` in a public repository named after your GitHub `<username>`.
+
+If you need more detailed explanation, check out [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). 
 
 ## 🍀 1. Basics
 ### 🍀 1.1. Sample prompts for "About me"
-
-👂 My name is ....</br>
-👩 Pronouns: ...</br>
-🌐 I live in ...</br>
-💼 I work as ... </br>
-🔭 I’m currently working on ...</br>
-🌱 I’m currently learning ...</br>
-👯 I’m looking to collaborate on ...</br>
-🤔 I’m looking for help with ...</br>
-💬 Ask me about ...</br>
-📫 How to reach me: ...</br>
-❤️ I love ...</br>
-⚡ Fun fact: ...</br>
+### Hi there 👋
+* 👂 My name is ....</br>
+* 👩 Pronouns: ...</br>
+* 🔭 I’m currently working on ...</br>
+* 🌱 I’m currently learning ...</br>
+* 🤝 I’m looking to collaborate on ...</br>
+* 🤔 I’m looking for help with ...</br>
+* 💬 Ask me about ...</br>
+* 📫 How to reach me: ...</br>
+* ❤️ I love ...</br>
+* ⚡ Fun fact: ...</br>
 
 ### 🍀 1.2. Additional resources
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
+---
 
 ## 📍 2. GitHub README stats
 Here are two ways we could display the activity summary:
@@ -54,5 +56,4 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 - [ ] [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [ ] [Awesome GitHub Stats Demo](https://awesome-github-stats.azurewebsites.net/)
 
-
-
+--- 
