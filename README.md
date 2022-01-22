@@ -1,8 +1,6 @@
+# 💼 Sample code snippets for GitHub profile README.md 
 
-
-# 🌑 Sample code snippets for GitHub profile README.md 🌕
-
-## 📍 1. GitHub activity summary
+## 📍 1. GitHub README stats
 Here are two ways we could display the activity summary:
 * HTML approach: `<p><img src="<url>"/></p>`
 * Markdown apporach: `![](<url>)`
@@ -31,3 +29,7 @@ More compact version:
 ### 📍 1.5. Themes
 To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. For instance, here's how to add __dark__ theme to GitHub stats:
 <p><img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/></p>
+
+Additional resource: 
+- [ ] [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [ ] [Awesome GitHub Stats Demo](https://awesome-github-stats.azurewebsites.net/)
