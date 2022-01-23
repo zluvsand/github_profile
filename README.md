@@ -103,3 +103,12 @@ Displaying cross-platform links
 
 ### 📍 4.2. Additional resources
 - [ ] [Icons for programming languages and other tools](https://devicon.dev/) (_see link under "Using `<img>` element"_)
+
+## 📍 5. Banner, images, GIFs
+
+### 📍 5.1. Icons for languages and tools
+<img height=1000 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/robert_keane_rlbG0p_nQOU_unsplash.jpg"/>
+
+### 📍 5.2. Additional resources
+- [ ] [Unsplash](hhttps://unsplash.com/) 
+- [ ] [Canva](https://www.canva.com/)
