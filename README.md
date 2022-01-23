@@ -3,8 +3,9 @@ To customise your GitHub Profile, include your favourite code snippets in `READM
 
 If you need more detailed explanation, check out [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). 
 
-## 🍀 1. Basics
-### 🍀 1.1. Sample prompts for "About me"
+## 🍀 1. About me
+Adding "about me" section with emojis, text and bullet point is a good starter. 
+### 🍀 1.1. Sample prompts
 ### Hi there 👋
 * 👂 My name is ....</br>
 * 👩 Pronouns: ...</br>
@@ -26,6 +27,8 @@ If you need more detailed explanation, check out [Managing your profile README](
 Here are two ways we could display the activity summary:
 * HTML approach: `<p><img src="<url>"/></p>`
 * Markdown apporach: `![](<url>)`
+
+HTML approach allows further customisation of the rendered image such as resizing and aligning. 
 
 To customise the following activity summary for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display
 ### 📍 2.1. GitHub stats
@@ -57,3 +60,29 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 - [ ] [Awesome GitHub Stats Demo](https://awesome-github-stats.azurewebsites.net/)
 
 --- 
+
+## 📍 3. Links to social media & other platforms
+Displaying cross-platform links
+### 📍 3.1. Hyperlinked badges
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoColor=white)](https://medium.com/@zluvsand) 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zluvsand/) 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) 
+
+
+### 📍 3.2. Hyperlinked icons
+<a href="https://medium.com/@zluvsand">
+    <img height="50" style="margin: 0px 10px 0px 0px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-256.png" />
+</a>
+<a href="https://www.linkedin.com/in/zluvsand/">
+    <img height="50" style="margin: 0px 10px 0px 0px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-256.png" />
+</a>
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="50" style="margin: 0px 10px 0px 0px" src="https://cdn3.iconfinder.com/data/icons/3d-applications/256/app_icons_media___stream_streaming_spotify_logo_multimedia_music_audio_podcast.png" />
+</a>
+
+### 📍 3.3. Additional resources
+- [ ] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [ ] [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [ ] [Iconfinder](https://www.iconfinder.com/)
+- [ ] [Simple Icons](https://simpleicons.org/)
+- [ ] [VectorLogoZone](https://www.vectorlogo.zone/index.html)
