@@ -107,7 +107,7 @@ Displaying cross-platform links
 ## 📍 5. Banner, images, GIFs
 
 ### 📍 5.1. Icons for languages and tools
-<img height=1000 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/robert_keane_rlbG0p_nQOU_unsplash.jpg"/>
+<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/robert_keane_rlbG0p_nQOU_unsplash.jpg"/>
 
 ### 📍 5.2. Additional resources
 - [ ] [Unsplash](hhttps://unsplash.com/) 
