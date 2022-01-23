@@ -113,5 +113,11 @@ or a banner:</br>
 <img height=200 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
 
 ### 📍 5.2. Additional resources
-- [ ] [Unsplash](hhttps://unsplash.com/) 
+- [ ] [Unsplash](https://unsplash.com/) 
 - [ ] [Canva](https://www.canva.com/)
+
+## 📍 6. Other additional resources:
+- [ ] [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [ ] [Repositories on GitHub Profile](https://github.com/topics/profile-readme)
+- [ ] [Sophisticated embeddable metrics](https://github.com/lowlighter/metrics)
+- [ ] [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
