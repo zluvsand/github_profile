@@ -109,7 +109,20 @@ or a banner:</br>
 - [ ] [Unsplash](https://unsplash.com/) 
 - [ ] [Canva](https://www.canva.com/)
 
-## 📍 6. Other additional resources:
+## 📍 6. Organise
+### 📍 6.1. Collapsable header
+
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+    Sample text
+</details>
+
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    Sample text
+</details>
+
+## 📍 7. Other additional resources:
 - [ ] [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [ ] [Repositories on GitHub Profile](https://github.com/topics/profile-readme)
 - [ ] [Sophisticated embeddable metrics](https://github.com/lowlighter/metrics)
