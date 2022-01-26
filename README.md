@@ -3,6 +3,14 @@ To customise your GitHub Profile, include your favourite code snippets in `READM
 
 If you need more detailed explanation, check out [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). 
 
+## 👉 0. Contents
+[👽 1. About me](#👽_1_about-me)</br>
+[🎨 2. Banner, image and/or GIF](#🎨-2.-banner,-image-and/or-GIF)</br>
+[📈 3. GitHub README stats](#📈-3.-gitHub-readme-stats)</br>
+[📷 4. Social media & other platforms](#📷-4.-social-media-&-other-platforms)</br>
+[🛠️ 5. Languages and tools](#🛠️-5.-languages-and-tools)</br>
+[📁 6. Organise](#📁-6.-organise)</br>
+[📚 7. Other additional resources](#📚-7.-other-additional-resources)</br>
 
 ## 👽  1. About me
 Adding "about me" section with emojis and text is a good starter. 
