@@ -5,13 +5,14 @@ If you need more detailed explanation, check out [Managing your profile README](
 
 ## 👉 0. Contents
 [👽 1. About me](#about-me)</br>
-[🎨 2. Banner, image and/or GIF](#banner,-image-and/or-GIF)</br>
-[📈 3. GitHub README stats](#📈-3.-gitHub-readme-stats)</br>
-[📷 4. Social media & other platforms](#📷-4.-social-media-&-other-platforms)</br>
-[🛠️ 5. Languages and tools](#🛠️-5.-languages-and-tools)</br>
+[🎨 2. Banner, image and/or GIF](#banner-image-gif)</br>
+[📈 3. GitHub README stats](#github-stats)</br>
+[📷 4. Social media & other platforms](#social-media-platforms)</br>
+[🛠️ 5. Languages and tools](#languages-and-tools)</br>
 [📁 6. Organise](#organise)</br>
-[📚 7. Other additional resources](#📚-7.-other-additional-resources)</br>
+[📚 7. Other additional resources](#additional-resources)</br>
 
+<a name="about-me"></a>
 ## 👽  1. About me
 Adding "about me" section with emojis and text is a good starter. 
 
@@ -33,6 +34,7 @@ Adding "about me" section with emojis and text is a good starter.
 
 ---
 
+<a name="banner-image-gif"></a>
 ## 🎨 2. Banner, image and/or GIF
 There are two ways we could embed a `.jpg`, `png` or `gif` file:
 * HTML approach: `<img src="<url>"/>`
@@ -64,6 +66,7 @@ Or your favourite gif:</br>
 
 ---
 
+<a name="github-stats"></a>
 ## 📈 3. GitHub README stats
 To customise the following activity summary for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display.
 
@@ -93,6 +96,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 ---
 
+<a name="social-media-platforms"></a>
 ## 📷 4. Social media & other platforms
 
 ### 📷 4.1. Inspiration 1
@@ -143,6 +147,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 ---
 
+<a name="languages-and-tools"></a>
 ## 🛠️ 5. Languages and tools
 
 ### 🛠️ 5.1. Inspiration 1
@@ -206,6 +211,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 ---
 
+<a name="organise"></a>
 ## 📁 6. Organise
 ### 📁 6.1. Collapsable sections
 <details>
@@ -220,6 +226,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 ---
 
+<a name="additional-resources"></a>
 ## 📚 7. Other additional resources
 - [ ] [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [ ] [Repositories on GitHub Profile](https://github.com/topics/profile-readme)
