@@ -53,7 +53,8 @@ A banner that represents you:</br>
 
 ### 🎨 2.2. Sample image
 Or an image that you like:</br>
-<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/>
+<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/></br>
+<a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
 
 ### 🎨 2.3. Sample gif
 Or your favourite gif:</br>
