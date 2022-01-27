@@ -72,9 +72,8 @@ Or your favourite gif:</br>
 To customise the following activity summary for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display.
 
 ### 📈 3.1. GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
 
-Both versions of the syntax will not be repeated for the remainder to avoid redundancy. 
 ### 📈 3.2. Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
