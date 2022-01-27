@@ -38,7 +38,7 @@ Adding "about me" section with emojis and text is a good starter.
 ## 🎨 2. Banner, image and/or GIF
 There are two ways we could embed a `.jpg`, `png` or `gif` file:
 * HTML approach: `<img src="<url>"/>`
-* Markdown apporach: `![](<url>)`
+* Markdown approach: `![](<url>)`
 
 HTML approach allows further customisation of the rendered image such as resizing and aligning. 
 
