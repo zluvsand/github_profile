@@ -34,7 +34,6 @@ Adding "about me" section with emojis and text is a good starter.
 
 ---
 
-<a name="banner-image-gif"></a>
 ## 🎨 2. Banner, image and/or GIF
 There are two ways we could embed a `.jpg`, `png` or `gif` file:
 * HTML approach: `<img src="<url>"/>`
@@ -212,8 +211,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 ---
 
 <a name="organise"></a>
-## 📁 6. Organise
-### 📁 6.1. Collapsable sections
+## 📁 6. Collapsible sections
 <details>
     <summary><b>✨About Me</b></summary><br/>
     Sample text
@@ -222,6 +220,17 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     Sample text
+</details>
+
+To embed images inside a collapsible section, need to use the HTML approach:
+
+<details>
+    <summary><b>🎁 Open me (Markdown approach) </b></summary><br/>
+    ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
+</details>
+<details>
+    <summary><b>🎁 Open me (HTML approach) </b></summary><br/>
+    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/></br>
 </details>
 
 ---
