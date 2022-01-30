@@ -34,12 +34,12 @@ There are two ways to embed an image:
 * HTML approach: `<img src="<url>"/>`
 * Markdown approach: `![](<url>)`
 
-### 🎨 2.1. Sample banner
-<img height=200 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
-
-### 🎨 2.2. Sample image
+### 🎨 2.1. Sample image
 <img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/></br>
 <a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
+
+### 🎨 2.2. Sample banner
+<img height=200 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
 
 ### 🎨 2.3. Sample gif
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
