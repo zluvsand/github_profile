@@ -29,36 +29,25 @@ Sample prompt:
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ---
-
-## 🎨 2. Banner, image and/or GIF
-There are two ways we could embed a `.jpg`, `png` or `gif` file:
+## 🎨 2. Images
+There are two ways to embed an image:
 * HTML approach: `<img src="<url>"/>`
 * Markdown approach: `![](<url>)`
 
-HTML approach allows further customisation of the rendered image such as resizing and aligning. 
-
-If `.jpg`, `png` or `gif` files are stored in the root directory of the repository, URL will look something like this:
-```
-https://raw.githubusercontent.com/<username>/<repository>/<branch>/<image>
-```
-
 ### 🎨 2.1. Sample banner
-A banner that represents you:</br>
 <img height=200 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
 
 ### 🎨 2.2. Sample image
-Or an image that you like:</br>
 <img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/></br>
 <a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
 
 ### 🎨 2.3. Sample gif
-Or your favourite gif:</br>
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
 
 ### 🎨 2.4. Additional resources
-- [ ] [Canva](https://www.canva.com/)
+- [ ] [Canva](https://www.canva.com/), [Excalidraw](https://excalidraw.com/) or [draw.io](https://excalidraw.com/)
 - [ ] [Unsplash](https://unsplash.com/) 
-- [ ] [Giphy](https://www.canva.com/)
+- [ ] [Giphy](https://www.canva.com/) or [Tenor](https://tenor.com/)
 
 ---
 
