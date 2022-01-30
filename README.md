@@ -1,10 +1,8 @@
 # 💼 Sample code snippets for GitHub profile README.md 
 To customise your GitHub Profile, include your favourite code snippets in `README.md` in a public repository named after your GitHub `<username>`. `README.md` must be located at the root directory of the repository. 
 
-If you need more detailed explanation, check out [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). 
-
 ## 👉 0. Contents
-[👽 1. About me](#about-me)</br>
+[👽 1. About me section](#about-me)</br>
 [🎨 2. Banner, image and/or GIF](#banner-image-gif)</br>
 [📈 3. GitHub README stats](#github-stats)</br>
 [📷 4. Social media & other platforms](#social-media-platforms)</br>
@@ -13,10 +11,8 @@ If you need more detailed explanation, check out [Managing your profile README](
 [📚 7. Other additional resources](#additional-resources)</br>
 
 <a name="about-me"></a>
-## 👽  1. About me
-Adding "about me" section with emojis and text is a good starter. 
-
-### 👽 1.1. Sample prompts
+## 👽  1. About me section
+Sample prompt:
 ### Hi there 👋
 * 👂 My name is ....</br>
 * 👩 Pronouns: ...</br>
@@ -29,7 +25,7 @@ Adding "about me" section with emojis and text is a good starter.
 * ❤️ I love ...</br>
 * ⚡ Fun fact: ...</br>
 
-### 👽 1.2. Additional resources
+### 👽 1.1. Additional resources
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ---
