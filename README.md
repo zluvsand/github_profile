@@ -2,28 +2,28 @@
 To customise your GitHub Profile, include your favourite code snippets in `README.md` in a public repository named after your GitHub `<username>`. `README.md` must be located at the root directory of the repository. 
 
 ## 👉 0. Contents
-[👽 1. About me section](#about-me)</br>
-[🎨 2. Images](#images)</br>
-[📈 3. GitHub README stats](#github-stats)</br>
-[☎️ 4. Connect with me section](#connect-with-me)</br>
-[🛠️ 5. Languages and tools](#languages-and-tools)</br>
-[📁 6. Organise](#organise)</br>
-[📚 7. Other additional resources](#additional-resources)</br>
+[👽 1. About me section](#about-me)<br>
+[🎨 2. Images](#images)<br>
+[📈 3. GitHub README stats](#github-stats)<br>
+[☎️ 4. Connect with me section](#connect-with-me)<br>
+[🛠️ 5. Languages and tools](#languages-and-tools)<br>
+[📁 6. Organise](#organise)<br>
+[📚 7. Other additional resources](#additional-resources)<br>
 
 <a name="about-me"></a>
 ## 👽  1. About me section
 Sample prompt:
 ### Hi there 👋
-* 👂 My name is ....</br>
-* 👩 Pronouns: ...</br>
-* 🔭 I’m currently working on ...</br>
-* 🌱 I’m currently learning ...</br>
-* 🤝 I’m looking to collaborate on ...</br>
-* 🤔 I’m looking for help with ...</br>
-* 💬 Ask me about ...</br>
-* 📫 How to reach me: ...</br>
-* ❤️ I love ...</br>
-* ⚡ Fun fact: ...</br>
+* 👂 My name is ....
+* 👩 Pronouns: ...
+* 🔭 I’m currently working on ...
+* 🌱 I’m currently learning ...
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love ...
+* ⚡ Fun fact: ...
 
 ### 👽 1.1. Additional resources
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
@@ -36,7 +36,7 @@ There are two ways to embed an image:
 * Markdown approach: `![](<url>)`
 
 ### 🎨 2.1. Sample image
-<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/></br>
+<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/><br>
 <a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
 
 ### 🎨 2.2. Sample banner
@@ -62,7 +62,7 @@ To customise the following summaries for your GitHub, replace `zluvsand` with yo
 ### 📈 3.2. Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
-More compact version:</br>
+More compact version:<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 ### 📈 3.3. Total contributions and streaks
@@ -72,7 +72,7 @@ More compact version:</br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
 
 ### 📈 3.5. Themes
-To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. For instance, here's how to add __dark__ theme to GitHub stats:</br>
+To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. For instance, here's how to add __dark__ theme to GitHub stats:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 
 ### 📈 3.6. Additional resources
@@ -212,12 +212,12 @@ Same as section ☎️ 4.4.
 To embed images inside a collapsible section, need to use the HTML approach:
 
 <details>
-    <summary><b>🎁 Open me (Markdown approach) </b></summary><br/>
+    <summary><b>🎁 Open me (Markdown approach) </b></summary>
     ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
 </details>
 <details>
-    <summary><b>🎁 Open me (HTML approach) </b></summary><br/>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/></br>
+    <summary><b>🎁 Open me (HTML approach) </b></summary>
+    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>
 
 ---
