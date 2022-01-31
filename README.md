@@ -119,13 +119,13 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 </table>
 
 ### ☎️  4.4. Additional resources
-- [ ] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [ ] [Shields.io](https://shields.io/)
+- [ ] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [ ] [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [ ] [Iconfinder](https://www.iconfinder.com/)
-- [ ] [Simple Icons](https://simpleicons.org/)
-- [ ] [Icons for programming languages and other tools](https://devicon.dev/) (_see link under "Using `<img>` element"_)
 - [ ] [VectorLogoZone](https://www.vectorlogo.zone/index.html)
+- [ ] [Simple Icons](https://simpleicons.org/)
+- [ ] [Devicon](https://devicon.dev/)
 
 ---
 
@@ -150,36 +150,36 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 <table>
     <tbody>
         <tr valign="top">
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
         </tr>
         <tr valign="top">
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="25%" align="center">
+            <td width="25%"">
             <span><strong>Canva</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
             </td>
