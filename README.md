@@ -36,7 +36,7 @@ There are two ways to embed an image:
 * Markdown approach: `![](<url>)`
 
 ### 🎨 2.1. Sample image
-<img height=400 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/cedric-frixon-Me7ySkVmWcw-unsplash.jpg"/><br>
+<img height=400 src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/><br>
 <a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
 
 ### 🎨 2.2. Sample banner
@@ -195,12 +195,12 @@ Same as section ☎️ 4.4.
 <a name="organise"></a>
 ## 📁 6. Collapsible sections
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Me</b></summary>
     Sample text
 </details>
 
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <summary><b>🛠️ Languages & Tools</b></summary>
     Sample text
 </details>
 
@@ -224,3 +224,7 @@ To embed images inside a collapsible section, need to use the HTML approach:
 - [ ] [Sophisticated embeddable metrics](https://github.com/lowlighter/metrics)
 - [ ] [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [ ] [Awesome GitHub Profile README Template Collection](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+
+---
+
+<h2 align="center">⭐ If you like the repository, don't forget to star the repository. ⭐</h2> 
