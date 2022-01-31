@@ -9,7 +9,17 @@
     Sample text
 </details>
 
-To embed images inside a collapsible section, need to use the HTML approach:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <details>
     <summary><b>🎁 Open me (Markdown approach) </b></summary>
@@ -19,3 +29,15 @@ To embed images inside a collapsible section, need to use the HTML approach:
     <summary><b>🎁 Open me (HTML approach) </b></summary>
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
