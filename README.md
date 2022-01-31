@@ -104,22 +104,16 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 ### ☎️ 4.3. Inspiration 3
 <table>
     <tbody>
-        <tr valign="top">
-            <td width="33%" align="center">
-            <a href="https://medium.com/@zluvsand">
+        <tr>
+            <td><a href="https://medium.com/@zluvsand">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
-            </a>
-            </td>
-            <td width="33%" align="center">
-            <a href="https://www.linkedin.com/in/zluvsand/">
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/zluvsand/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-            </a>
-            </td>
-            <td width="33%" align="center">
-            <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            </a></td>
+            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a>
-            </td>
+            </a></td>
         </tr>
     </tbody>
 </table>
