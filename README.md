@@ -72,11 +72,12 @@ More compact version:<br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
 
 ### 📈 3.5. Themes
-To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. For instance, here's how to add __dark__ theme to GitHub stats:<br>
+To apply theme from [available themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md), add `&theme=<theme_name>` to the url. Here's how to apply __dark__ theme to our example on GitHub stats:<br>
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 
 ### 📈 3.6. Additional resources
 - [ ] [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [ ] [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [ ] [Awesome GitHub Stats Demo](https://awesome-github-stats.azurewebsites.net/)
 
 ---
