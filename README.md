@@ -3,9 +3,9 @@ To customise your GitHub Profile, include your favourite code snippets in `READM
 
 ## 👉 0. Contents
 [👽 1. About me section](#about-me)</br>
-[🎨 2. Banner, image and/or GIF](#banner-image-gif)</br>
+[🎨 2. Images](#images)</br>
 [📈 3. GitHub README stats](#github-stats)</br>
-[📷 4. Social media & other platforms](#social-media-platforms)</br>
+[☎️ 4. Connect with me section](#connect-with-me)</br>
 [🛠️ 5. Languages and tools](#languages-and-tools)</br>
 [📁 6. Organise](#organise)</br>
 [📚 7. Other additional resources](#additional-resources)</br>
@@ -29,6 +29,7 @@ Sample prompt:
 - [ ] [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ---
+<a name="images"></a>
 ## 🎨 2. Images
 There are two ways to embed an image:
 * HTML approach: `<img src="<url>"/>`
@@ -39,7 +40,7 @@ There are two ways to embed an image:
 <a href=https://unsplash.com/photos/Me7ySkVmWcw><em>Photo by Cédric Frixon on Unsplash </em></a>
 
 ### 🎨 2.2. Sample banner
-<img height=200 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
+<img height=250 src="https://raw.githubusercontent.com/zluvsand/github_profile/main/canva_banner.png"/>
 
 ### 🎨 2.3. Sample gif
 ![](https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif)
@@ -53,7 +54,7 @@ There are two ways to embed an image:
 
 <a name="github-stats"></a>
 ## 📈 3. GitHub README stats
-To customise the following activity summary for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display.
+To customise the following summaries for your GitHub, replace `zluvsand` with your GitHub username and `github_profile` with your repository to display.
 
 ### 📈 3.1. GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
@@ -64,7 +65,7 @@ To customise the following activity summary for your GitHub, replace `zluvsand` 
 More compact version:</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
-### 📈 3.3. Total contributions & streaks
+### 📈 3.3. Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 ### 📈 3.4. GitHub repository
@@ -80,15 +81,15 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 
 ---
 
-<a name="social-media-platforms"></a>
-## 📷 4. Social media & other platforms
+<a name="connect-with-me"></a>
+## ☎️ 4. Connect with me section
 
-### 📷 4.1. Inspiration 1
+### ☎️ 4.1. Inspiration 1
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand) 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/) 
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) 
 
-### 📷 4.2. Inspiration 2
+### ☎️4.2. Inspiration 2
 <a href="https://medium.com/@zluvsand">
     <img height="50" style="margin: 0px 10px 0px 0px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png" />
 </a>
@@ -99,7 +100,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
     <img height="50" style="margin: 0px 10px 0px 0px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
 </a>
 
-### 📷 4.3. Inspiration 3
+### ☎️ 4.3. Inspiration 3
 <table>
     <tbody>
         <tr valign="top">
@@ -122,12 +123,14 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
     </tbody>
 </table>
 
-### 📷 4.4. Additional resources
+### ☎️  4.4. Additional resources
 - [ ] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [ ] [Shields.io](https://shields.io/)
 - [ ] [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [ ] [Iconfinder](https://www.iconfinder.com/)
 - [ ] [Simple Icons](https://simpleicons.org/)
+- [ ] [Icons for programming languages and other tools](https://devicon.dev/) (_see link under "Using `<img>` element"_)
+- [ ] [VectorLogoZone](https://www.vectorlogo.zone/index.html)
 
 ---
 
@@ -190,8 +193,7 @@ To apply theme from [available themes](https://github.com/anuraghazra/github-rea
 </table>
 
 ### 🛠️ 5.4. Additional resources
-- [ ] [Icons for programming languages and other tools](https://devicon.dev/) (_see link under "Using `<img>` element"_)
-- [ ] [VectorLogoZone](https://www.vectorlogo.zone/index.html)
+Same as section ☎️ 4.4.
 
 ---
 
