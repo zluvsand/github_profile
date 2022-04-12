@@ -1,5 +1,7 @@
 # 💼 Sample code snippets for GitHub profile README.md 
-**_This repository is created to complement [this blog post](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05)._**
+<a href="https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05">
+    <img src="https://img.shields.io/badge/READ ONE MEDIUM-12100E?logo=medium&color=000&logoColor=white" />
+</a>
 
 To customise your GitHub Profile, include your favourite code snippets in `README.md` in a public repository named after your GitHub `<username>`. `README.md` must be located at the root directory of the repository. 
 
